@@ -1,0 +1,22 @@
+{
+  "name": "epubreader",
+  "version": "1.0.0",
+  "description": "Epub Reader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzmeu/EpubReaderElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzmeu/EpubReaderElectron/issues"
+  },
+  "homepage": "https://github.com/rzmeu/EpubReaderElectron#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
